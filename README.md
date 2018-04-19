@@ -1,5 +1,6 @@
 # Child_care
 ## C program performing process synchronization using posix semaphores.\\
+IOS - school project 2 \
 This program is an implementation of the Child Care synchronization problem using posix semaphores and fork system call. \
 There is a centre for children with a rule that there is always one adult present for every three children. \
 At the begining the main process creates two other processes, one generates children the other generates adults. \
